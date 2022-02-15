@@ -1,0 +1,120 @@
+body{
+    margin: auto;
+    width: 80%;
+    height: 1400px;
+}
+header{
+   
+    width: 80%;
+    height:400px;
+    background-image:url(Images/office-1081807__340.webp);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 10%
+}
+.header1
+{
+    width: 80%;
+    height:400px;
+    background-color: blue;
+    position: absolute;
+    top: 0;
+    left: 10%;
+    opacity: 0.5;      
+}
+#logo
+    {
+        float: left;
+        margin-left: 40px;
+        color: white;
+    }
+nav
+    {
+        float: right;
+        margin-right: 40px;
+        color:white;
+    }
+ul li
+    {
+        display: inline-block;
+        padding: 12px;
+    }
+a
+    {
+        color:white;
+        text-decoration: none;
+    }
+.div2{
+    width: 100%;
+     position: absolute;
+    top:25%;
+    left:20%;
+}
+button
+    {
+        border: none;
+        background-color: white;
+        padding: 7px;
+        width:10%;
+        border-radius: 7px;
+        font-size:25px;
+        color: blue;
+        font-weight: bolder;
+    }
+h1{
+    color:white;
+}
+.about{
+    width:80%;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+    top:63%;
+    
+}
+.img-div{
+    position: absolute;
+    top:8%;
+    left: 5%;
+    width:20%;
+    height: 300px;
+    border: 8px solid blue;
+}
+.image
+{
+    position: absolute;
+    top:11%;
+    left: 6.5%;
+    width:20%;
+    height: 300px; 
+}
+.content{
+    float: right;
+    margin-top: 35px;
+    width:60%;
+    height: 300px;
+    
+}
+#about-h2{
+    margin-top: 5px;
+    margin-bottom: -10px
+}
+hr{
+    width: 10%;
+    height: 3px;
+    margin-left: 0px;
+    background-color: black;
+}
+.details{
+    display: flex;
+    flex-wrap: wrap;
+}
+#p1{
+    font-size: 30px;
+    color: #1313da;
+    
+}
+
+
